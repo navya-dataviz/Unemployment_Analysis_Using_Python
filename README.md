@@ -81,4 +81,4 @@ Enhancing visualization with advanced tools
 This project demonstrates how data analysis techniques can be applied to real-world problems. It highlights the importance of data-driven decision-making and showcases practical skills in Python, data processing, and visualization.
 
 👩‍💻 Author
-Navya Sunil K S| Data Science Intern
+Navya Sunil K S | Data Science Intern
