@@ -44,8 +44,6 @@ unemployment-analysis/
 
 ├── README.md # Project documentation
 
-└── requirements.txt # Required libraries
-
 📈 Key Insights
 
   A significant increase in unemployment was observed during the COVID-19 period
